@@ -1,0 +1,26 @@
+.heading{
+    font-size: 23px;
+    width: 700px;
+    box-shadow:5px 5px 5px grey;
+    margin: 0px;
+}
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    width: 600px;
+    
+}
+.heading_div2{
+    font-size: 15px;
+    width: 500px;
+
+    
+}
+body{
+    background: rgb(131,255,248);
+background: linear-gradient(90deg, rgba(131,255,248,1) 21%, rgba(190,159,245,1) 69%);
+}
